@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0027-remove-element) |
+| [1929-concatenation-of-array](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
