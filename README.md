@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
