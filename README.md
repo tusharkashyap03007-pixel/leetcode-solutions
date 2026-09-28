@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/tusharkashyap03007-pixel/leetcode-solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
